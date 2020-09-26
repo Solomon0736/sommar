@@ -1,0 +1,17 @@
+body {
+    /* max-width: 100%;*/
+    max-width: 100%;
+    padding-left: 6%;
+    padding-right: 18%;
+    background-color: beige;
+   
+}
+.so{
+   
+    float: right;
+    width: 60%;
+    margin-right: 10%;
+    
+}
+.li{
+    margin-left: 40%;}
